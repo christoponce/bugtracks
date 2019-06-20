@@ -1,0 +1,87 @@
+D:\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.exe.config
+D:\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.exe
+D:\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.pdb
+D:\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTrack.Access.dll
+D:\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTrack.Access.pdb
+D:\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csprojResolveAssemblyReference.cache
+D:\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.MainForm.resources
+D:\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.Properties.Resources.resources
+D:\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csproj.GenerateResource.Cache
+D:\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.exe
+D:\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.pdb
+G:\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.exe.config
+G:\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.exe
+G:\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.pdb
+G:\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.exe
+G:\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.pdb
+G:\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTrack.Access.dll
+G:\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTrack.Access.pdb
+G:\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csprojResolveAssemblyReference.cache
+G:\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.MainForm.resources
+G:\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.Properties.Resources.resources
+G:\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csproj.GenerateResource.Cache
+D:\Final\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.exe.config
+D:\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.exe
+D:\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.pdb
+D:\Final\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.exe
+D:\Final\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.pdb
+D:\Final\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTrack.Access.dll
+D:\Final\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTrack.Access.pdb
+D:\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csprojResolveAssemblyReference.cache
+D:\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.MainForm.resources
+D:\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.Properties.Resources.resources
+D:\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csproj.GenerateResource.Cache
+C:\Users\christopher.toponce\Desktop\Final\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.exe.config
+C:\Users\christopher.toponce\Desktop\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.exe
+C:\Users\christopher.toponce\Desktop\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.pdb
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.exe.config
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.exe
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.pdb
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTrack.Access.dll
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTrack.Access.pdb
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csprojAssemblyReference.cache
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.MainForm.resources
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.Properties.Resources.resources
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csproj.GenerateResource.cache
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csproj.CoreCompileInputs.cache
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csproj.CopyComplete
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.exe
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.pdb
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.exe.config
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.exe
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.pdb
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTrack.Access.dll
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTrack.Access.pdb
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csprojAssemblyReference.cache
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.MainForm.resources
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.Properties.Resources.resources
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csproj.GenerateResource.cache
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csproj.CoreCompileInputs.cache
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csproj.CopyComplete
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.exe
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.pdb
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.ShowIssuesForm.resources
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.ByIDForm.resources
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.ByImportanceForm.resources
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.ByTitleForm.resources
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.ByStatusFrom.resources
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.ByAssigneeForm.resources
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.exe.config
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.exe
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTracker.WindowsFormApp.pdb
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTrack.Access.dll
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\bin\Debug\BugTrack.Access.pdb
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csprojAssemblyReference.cache
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.MainForm.resources
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.Properties.Resources.resources
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.ByAssigneeForm.resources
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.ByIDForm.resources
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.ByImportanceForm.resources
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.ByStatusFrom.resources
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.ByTitleForm.resources
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.ShowIssuesForm.resources
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csproj.GenerateResource.cache
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csproj.CoreCompileInputs.cache
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.csproj.CopyComplete
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.exe
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTracker.WindowsFormApp\obj\Debug\BugTracker.WindowsFormApp.pdb

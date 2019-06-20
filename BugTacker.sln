@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugTrack.Access", "BugTrack.Access\BugTrack.Access.csproj", "{11C4536E-FE7E-4DA5-AE14-72A28C9EDBF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugTracker.WindowsFormApp", "BugTracker.WindowsFormApp\BugTracker.WindowsFormApp.csproj", "{6A76340B-6F78-44A9-9AB0-A5CF68BCEE70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C4536E-FE7E-4DA5-AE14-72A28C9EDBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C4536E-FE7E-4DA5-AE14-72A28C9EDBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C4536E-FE7E-4DA5-AE14-72A28C9EDBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C4536E-FE7E-4DA5-AE14-72A28C9EDBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A76340B-6F78-44A9-9AB0-A5CF68BCEE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A76340B-6F78-44A9-9AB0-A5CF68BCEE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A76340B-6F78-44A9-9AB0-A5CF68BCEE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A76340B-6F78-44A9-9AB0-A5CF68BCEE70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

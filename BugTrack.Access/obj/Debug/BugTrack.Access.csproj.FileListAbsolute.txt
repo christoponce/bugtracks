@@ -1,0 +1,32 @@
+G:\Final\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.csprojResolveAssemblyReference.cache
+G:\Final\BugTacker\BugTrack.Access\bin\Debug\BugTrack.Access.dll
+G:\Final\BugTacker\BugTrack.Access\bin\Debug\BugTrack.Access.pdb
+G:\Final\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.dll
+G:\Final\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.pdb
+D:\Final\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.dll
+D:\Final\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.pdb
+D:\Final\BugTacker\BugTrack.Access\bin\Debug\BugTrack.Access.dll
+D:\Final\BugTacker\BugTrack.Access\bin\Debug\BugTrack.Access.pdb
+D:\Final\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.csprojResolveAssemblyReference.cache
+D:\Final\Final\BugTacker\BugTrack.Access\bin\Debug\BugTrack.Access.dll
+D:\Final\Final\BugTacker\BugTrack.Access\bin\Debug\BugTrack.Access.pdb
+D:\Final\Final\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.csprojResolveAssemblyReference.cache
+D:\Final\Final\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.dll
+D:\Final\Final\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.pdb
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTrack.Access\bin\Debug\BugTrack.Access.dll
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTrack.Access\bin\Debug\BugTrack.Access.pdb
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.csproj.CoreCompileInputs.cache
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.dll
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.pdb
+D:\School\C# Projects\C# I Final\Final\Final\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.csprojAssemblyReference.cache
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTrack.Access\bin\Debug\BugTrack.Access.dll
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTrack.Access\bin\Debug\BugTrack.Access.pdb
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.csproj.CoreCompileInputs.cache
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.dll
+D:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.pdb
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTrack.Access\bin\Debug\BugTrack.Access.dll
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTrack.Access\bin\Debug\BugTrack.Access.pdb
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.csprojAssemblyReference.cache
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.csproj.CoreCompileInputs.cache
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.dll
+I:\School\C# Projects\Project 1 - Bug Tracker\BugTacker\BugTrack.Access\obj\Debug\BugTrack.Access.pdb
